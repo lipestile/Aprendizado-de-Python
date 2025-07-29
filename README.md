@@ -1,2 +1,2 @@
-# Aprendiazado-de-Python
+# Aprendizado-de-Python
 Curso de Formação de Python
